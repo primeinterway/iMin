@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- CDC driver -->
+    <usb-device vendor-id="7851" product-id="10758"  /> <!-- 0x0d28 / 0x0204: ARM mbed -->
+</resources>

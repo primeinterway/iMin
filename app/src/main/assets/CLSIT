@@ -1,0 +1,16 @@
+[SiTef]
+ConexaoObrigatoria=1
+
+[Geral]
+TransacoesDesabilitadas=60;61;63;3031;
+
+[CliSiTef]
+HabilitaTrace=1
+DiretorioTrace=/sdcard
+
+[CliSiTefI]
+HabilitaTrace=1
+
+[PinPad]
+HabilitaTrace=1
+MensagemPadrao=*    RCHLO    *|   Riachuelo
